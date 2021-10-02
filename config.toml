@@ -67,3 +67,8 @@ pygmentscodefencesguesssyntax = true
   name = "About"
   weight = 4
   url = "about/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
