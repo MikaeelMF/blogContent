@@ -1,4 +1,4 @@
-baseurl = "mikaeelmayeli.ir"
+baseurl = "https://MikaeelMF.github.io"
 title = "Mikaeel Mayeli Blog"
 theme = "hugo-coder"
 languagecode = "en"
