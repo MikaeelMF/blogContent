@@ -1,5 +1,5 @@
-baseurl = "http://www.example.com"
-title = "johndoe"
+baseurl = "mikaeelmayeli.ir"
+title = "Mikaeel Mayeli Blog"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -12,26 +12,25 @@ pygmentscodefencesguesssyntax = true
 
 
 [params]
-  author = "John Doe"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
-  keywords = "blog,developer,personal"
+  author = "Mikaeel Mayeli"
+  info = "Tinkering with interesting stuff"
+  description = "Mikaeel Mayeli's personal website"
+  keywords = "blog,mikaeel,mikaeelmayeli,mayeli,personal"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
 
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  favicon_32 = "images/favicon-32-32.png"
+  favicon_16 = "images/favicon-16-16.png"
+  touchIcon = "images/touchIcon.png"
 
-  footercontent = "Enter a text here."
   hideFooter = false
   hideCredits = false
   hideCopyright = false
-  since = 2019
+  since = 2021
 
   enableTwemoji = true
 
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
+  colorScheme = "dark"
+  hidecolorschemetoggle = true
 
 [taxonomies]
   category = "categories"
@@ -44,17 +43,12 @@ pygmentscodefencesguesssyntax = true
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://github.com/MikaeelMF/"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://twitter.com/mikaeelmayeli"
 
 # Menu links
 [[menu.main]]
@@ -62,6 +56,14 @@ pygmentscodefencesguesssyntax = true
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "Publication"
   weight = 2
+  url = "pub/"
+[[menu.main]]
+  name = "Suggestions"
+  weight = 3
+  url = "sug/"
+[[menu.main]]
+  name = "About"
+  weight = 4
   url = "about/"
