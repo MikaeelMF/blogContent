@@ -1,5 +1,5 @@
 baseurl = "https://MikaeelMF.github.io"
-title = "Mikaeel Mayeli Blog"
+title = "Mikaeel Mayeli"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
   author = "Mikaeel Mayeli"
   info = "Tinkering with interesting stuff"
   description = "Mikaeel Mayeli's personal website"
-  keywords = "blog,mikaeel,mikaeelmayeli,mayeli,personal"
+  keywords = "blog,mikaeel,mikaeelmayeli,mayeli,personal,mikaeil,mikaeilmayeli"
   avatarurl = "images/avatar.jpg"
 
   favicon_32 = "images/favicon-32-32.png"
@@ -44,28 +44,15 @@ pygmentscodefencesguesssyntax = true
   icon = "fa fa-github fa-2x"
   weight = 1
   url = "https://github.com/MikaeelMF/"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/mikaeelmayeli"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
+  name = "Publications"
   weight = 1
-  url  = "posts/"
-[[menu.main]]
-  name = "Publication"
-  weight = 2
   url = "pub/"
 [[menu.main]]
-  name = "Suggestions"
-  weight = 3
-  url = "sug/"
-[[menu.main]]
   name = "About"
-  weight = 4
+  weight = 2
   url = "about/"
 
 [markup]
