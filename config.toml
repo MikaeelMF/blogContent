@@ -44,6 +44,11 @@ pygmentscodefencesguesssyntax = true
   icon = "fa fa-github fa-2x"
   weight = 1
   url = "https://github.com/MikaeelMF/"
+[[params.social]]
+  name = "Medium"
+  icon = "fa fa-medium fa-2x"
+  weight = 2
+  url = "https://medium.com/@mikaeelmayeli"
 
 # Menu links
 [[menu.main]]
