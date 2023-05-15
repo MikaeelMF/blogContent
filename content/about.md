@@ -10,7 +10,7 @@ Hey there! My name is Mikaeel and I am a computer science and software engineer 
 - Blockchain Technology and decentralized systems
 - Linux and open-source software
 
-In my spare time, I play games, read some books, and participate in teaching and learning in my subjects of interest. My CV is attached [here](https://mikaeelmayeli.ir/pdf/CV.pdf).
+In my spare time, I play games, read some books, and participate in teaching and learning in my subjects of interest. My CV is attached [here](https://mikaeelmayeli.com/pdf/CV.pdf).
 
 I am not much of a writer but I will try to explain topics that I find interesting in this blog.
 
